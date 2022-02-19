@@ -1,2 +1,2 @@
-# fantastic-palm-tree
+# Fantastic-palm-tree
 hi
